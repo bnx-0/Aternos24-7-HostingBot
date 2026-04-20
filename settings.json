@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "9eC0.aternos.me",
-    "port": Port: 15175,
+    "port":15175,
     "version": "1.21.4",
     "try-creative": false
   },
