@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "9eC0.aternos.me",
-    "password": "15175",
+    "username": "DRAGON",
+    "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
-    "version": "",
+    "ip": "9eC0.aternos.me",
+    "port": Port: 15175,
+    "version": "1.21.4",
     "try-creative": false
   },
   "position": {
