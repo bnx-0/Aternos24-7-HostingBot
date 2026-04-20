@@ -13,9 +13,9 @@
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": 3428,
+    "y": 79,
+    "z": -5672
   },
   "utils": {
     "auto-auth": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "DRAGON YOUR UNCLE",
+        "BLACK BLACK BLACK",
+        "INSTA ovs_79"
       ]
     },
     "chat-log": true,
@@ -78,7 +78,7 @@
     "events": {
       "connect": true,
       "disconnect": true,
-      "chat": false
+      "chat": true
     }
   },
   "chat": {
